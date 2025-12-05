@@ -7,6 +7,13 @@
 
 ---
 
+<!-- Gradient Line -->
+<p align="center">
+  <img src="https://github.com/1heiseng/gradient-line/blob/main/gradient.gif?raw=true" width="70%" />
+</p>
+
+---
+
 ## 🧑‍💻 About Me
 - 💡 I enjoy building practical systems and improving existing tools.  
 - 🚀 I focus on clean, simple, and efficient code.  
@@ -27,6 +34,15 @@
 ## 🛠️ Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,lua,python,html,css,react,github,git,vscode" />
+</p>
+
+---
+
+## 🔥 Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/Developer-Fast%20Learner-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dark%20Theme-Lover-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding-Every%20Day-green?style=for-the-badge" />
 </p>
 
 ---
